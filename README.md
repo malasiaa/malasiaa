@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning list(range(Deep_Learning, All, step)).
+- 🌱 I’m currently learning (range(Deep_Learning, All, step).
 
 <!--
 **malasiaa/malasiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
