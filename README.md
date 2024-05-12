@@ -1,11 +1,14 @@
+<!-- Define a variable for the color 
+{% set capsule_color = 'gradient' %}-->
+
+<!-- Header capsule render -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Hi,%20I'm%20José!%20👋&fontColor=00&reversal=false&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color={capsule_color}&text=Hi,%20I'm%20José!%20👋&fontColor=00&reversal=false&animation=twinkling&fontSize=40&fontAlignY=40"/>
 </p>
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseandradee/)
 ## 👩‍💻 About Me
 I am a versatile Data Scientist proficient in full-stack development, with a passion for automating intricate challenges and optimizing workflows.
-
 
 As an upcoming PhD student in Data Science at NOVA IMS, I am driven by curiosity and commitment to explore new horizons and push the boundaries of what's possible in the field.
 
@@ -78,8 +81,10 @@ Beyond the realm of data science, I hold a profound fascination for space explor
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=malasiaa&theme=slateorange&hide_border=false" align="center"/>
   </picture>
 </p>
+
+<!-- Bottom capsule render -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color={capsule_color}&height=100&section=footer"/>
 </p>
 
 <!--
