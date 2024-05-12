@@ -7,7 +7,7 @@
 I am a versatile Data Scientist proficient in full-stack development, with a passion for automating intricate challenges and optimizing workflows.
 
 
-As an upcoming PhD student in Data Science at NOVA IMS I am driven by curiosity and commitment to explore new horizons and pushing the boundaries of what's possible in the field.
+As an upcoming PhD student in Data Science at NOVA IMS, I am driven by curiosity and commitment to explore new horizons and pushing the boundaries of what's possible in the field.
 
 I look forward to an opportunity to also grow professionally in the area and learn along the way. 
 
@@ -53,6 +53,9 @@ Beyond the realm of data science, I hold a profound fascination for space explor
   </picture>
   <picture>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
+  </picture>
+  <picture>
+  <img src="https://github.com/malasiaa/malasiaa/assets/144847430/a8f680af-c5c8-44a6-9040-964172940bdb" alt="aws" width="45" height="45"/>
   </picture>
   <picture>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
