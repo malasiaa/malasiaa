@@ -1,9 +1,6 @@
-<!-- Define a variable for the color 
-{% set capsule_color = 'gradient' %}-->
-
 <!-- Header capsule render -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color={capsule_color}&text=Hi,%20I'm%20José!%20👋&fontColor=00&reversal=false&animation=twinkling&fontSize=50&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hi,%20I'm%20José!%20👋&fontColor=00&reversal=false&animation=twinkling&fontSize=50&fontAlignY=35"/>
 </p>
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseandradee/)
@@ -84,7 +81,7 @@ Beyond the realm of data science, I hold a profound fascination for space explor
 
 <!-- Bottom capsule render -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color={capsule_color}&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
 <!--
