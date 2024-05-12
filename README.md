@@ -4,14 +4,14 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseandradee/)
 ## 👩‍💻 About Me
-I am full stack Data Scientist, with a passion to automate complex problems.
+I am a versatile Data Scientist proficient in full-stack development, with a passion for automating intricate challenges and optimizing workflows.
 
 
-As a forthcoming PhD student in Data Science at NOVA IMS I am driven by a relentless curiosity and a commitment to explore new horizons and pushing the boundaries of what's possible in the field.
+As an upcoming PhD student in Data Science at NOVA IMS I am driven by curiosity and commitment to explore new horizons and pushing the boundaries of what's possible in the field.
 
-I look forward to have the opportunity to also drive innovation professionaly in the area and learn along the way. 
+I look forward to an opportunity to also grow professionally in the area and learn along the way. 
 
-Outside of the data science realm, I harbor a particular passion for space exploration. 🚀
+Beyond the realm of data science, I hold a profound fascination for space exploration. 🚀
 
 <p align="center">
   <picture>
