@@ -13,12 +13,6 @@ I look forward to an opportunity to also grow professionally in the area and lea
 
 Beyond the realm of data science, I hold a profound fascination for space exploration. 🚀
 
-<p align="center">
-  <picture>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=malasiaa&theme=slateorange&hide_border=false" align="center"/>
-  </picture>
-</p>
-
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <p align="center">
   <picture>
@@ -76,11 +70,14 @@ Beyond the realm of data science, I hold a profound fascination for space explor
     <img src="https://github.com/malasiaa/malasiaa/assets/144847430/71f2c4ab-31bc-4723-bef2-691050cc0713" alt="powerbi" width="45" height="45"/>
   </picture>
 </p>
-
+<p align="center">
+  <picture>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=malasiaa&theme=slateorange&hide_border=false" align="center"/>
+  </picture>
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
 
 <!--
 🌱 ✨ _special_ ✨
