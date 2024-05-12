@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Hi,%20I'm%20José!%20👋&fontColor=00&reversal=false&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Hi,%20I'm%20José!%20👋&fontColor=00&reversal=false&animation=twinkling"/>
 </p>
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseandradee/)
@@ -7,7 +7,7 @@
 I am a versatile Data Scientist proficient in full-stack development, with a passion for automating intricate challenges and optimizing workflows.
 
 
-As an upcoming PhD student in Data Science at NOVA IMS, I am driven by curiosity and commitment to explore new horizons and pushing the boundaries of what's possible in the field.
+As an upcoming PhD student in Data Science at NOVA IMS, I am driven by curiosity and commitment to explore new horizons and push the boundaries of what's possible in the field.
 
 I look forward to an opportunity to also grow professionally in the area and learn along the way. 
 
@@ -19,7 +19,7 @@ Beyond the realm of data science, I hold a profound fascination for space explor
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   </picture>
   <picture>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/>
   </picture>
   <picture>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45"/>
@@ -67,7 +67,7 @@ Beyond the realm of data science, I hold a profound fascination for space explor
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
   </picture>
   <picture>
-    <img src="https://github.com/malasiaa/malasiaa/assets/144847430/d4aa96fe-b236-4b85-8c44-d49a29e52f53" alt="tableau" width="45" height="45"/>
+    <img src="https://github.com/malasiaa/malasiaa/assets/144847430/fb1b8029-1817-4a86-b599-921cb6faae44" alt="tableau" width="45" height="45"/>
   </picture>
   <picture>
     <img src="https://github.com/malasiaa/malasiaa/assets/144847430/71f2c4ab-31bc-4723-bef2-691050cc0713" alt="powerbi" width="45" height="45"/>
