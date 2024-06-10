@@ -64,6 +64,9 @@ Beyond the realm of data science, I hold a profound fascination for space explor
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="45" height="45"/>
   </picture>
   <picture>
+    <img src="https://github.com/malasiaa/malasiaa/assets/144847430/cb8a3b2f-8373-44ed-a2a5-92f23fcfa478" alt="Linux" width="45" height="45"/>
+  </picture>
+  <picture>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
   </picture>
   <picture>
