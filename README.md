@@ -37,6 +37,9 @@ Beyond the realm of data science, I hold a profound fascination for space explor
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
   </picture>
   <picture>
+    <img src="https://github.com/malasiaa/malasiaa/assets/144847430/620cb6cf-00ff-4dac-8ae7-29f077a89052" alt="cpp" width="45" height="45"/>
+  </picture>
+  <picture>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" alt="apachespark" width="45" height="45"/>
   </picture>
   <picture>
