@@ -5,7 +5,7 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseandradee/)
 ## 👩‍💻 About Me
-I am a versatile Data Scientist proficient in full-stack development, with a passion for building AI systems and automating processes.
+I am a versatile Data Scientist with a passion for building AI systems and automating processes.
 
 As an upcoming PhD student in Data Science at NOVA IMS, I am driven by curiosity and commitment to explore new horizons and push the boundaries of what's possible in the field.
 
