@@ -7,9 +7,7 @@
 ## 👩‍💻 About Me
 I am a versatile Data Scientist with a passion for building AI systems and automating processes.
 
-PhD student in Data Science at NOVA IMS, driven by curiosity and commitment to explore new horizons and push the boundaries of what's possible in the field.
-
-Data science & space exploration 🚀🚀
+PhD student in Data Science at NOVA IMS, driven by curiosity and commitment to explore new horizons and push the boundaries of what's possible in the field. 🚀🚀
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <p align="center">
