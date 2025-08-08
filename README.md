@@ -75,11 +75,6 @@ PhD student in Data Science at NOVA IMS, driven by curiosity and commitment to e
     <img src="https://github.com/malasiaa/malasiaa/assets/144847430/71f2c4ab-31bc-4723-bef2-691050cc0713" alt="powerbi" width="45" height="45"/>
   </picture>
 </p>
-<p align="center">
-  <picture>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=malasiaa&theme=slateorange&hide_border=false" align="center"/>
-  </picture>
-</p>
 
 <!-- Bottom capsule render -->
 <p align="center">
