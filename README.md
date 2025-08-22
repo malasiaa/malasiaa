@@ -1,6 +1,6 @@
 <!-- Header capsule render -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hi,%20I'm%20José!%20👋&fontColor=00&reversal=false&animation=twinkling&fontSize=50&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=%20Welcome!%20👋&fontColor=00&reversal=false&animation=twinkling&fontSize=50&fontAlignY=35"/>
 </p>
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseandradee/)
